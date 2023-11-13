@@ -11,26 +11,29 @@ This project implements a Vision Transformer (ViT) for image classification usin
 - [Notebooks](#notebooks)
 - [Testing](#testing)
 - [License](#license)
-
-## Getting Started
-To get started with this project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Vision-Transformer-Keras.git
-   cd Vision-Transformer-Keras
 # Vision Transformer (ViT) for Image Classification
 
-...
+## Overview
+
+This repository contains the code for implementing a Vision Transformer (ViT) model for image classification using Keras.
 
 ## Code Organization
-The project code is organized into the following folders:
 
-- **data:** Contains scripts and modules related to data processing.
-- **models:** Contains the implementation of the Vision Transformer model (`vit_model.py`).
-- **notebooks:** Contains Jupyter notebooks, including the main code (`image_classification_with_vision_transformer.ipynb`).
-- **tests:** Contains unit tests for the model (`test_vit_model.py`).
+The project code is organized into the following structure:
+
+- **notebooks:** Contains the Jupyter Notebook with the main code (`notebooks/image_classification_with_vision_transformer.ipynb`).
+- **.gitignore:** Specifies which files and directories to exclude from version control.
+- **LICENSE:** The license file for the project.
+- **README.md:** This file, providing an overview of the project.
+- **requirements.txt:** Lists the dependencies required to run the code.
 - **vit_script.py:** The main script for running the Vision Transformer model.
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/SadieAram/Vision-Transformer-Keras.git
 
 ...
 
